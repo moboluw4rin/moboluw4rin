@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**moboluw4rin/moboluw4rin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mobolu Olowoyeye 
+### 2nd Year Artificial intelligence (AI) Undergrad at King's College London
+- Hi, I'm Mobolu 👋
+- 👩‍⚖️ I'm passionate about AI Ethics & Responsible AI
+- 🖥️ I'm proficient in _Python_ & _Java_
+- 🚀 I'm currently learning Pytorch and Tensorflow
+- 💻 I've Interned in data science & AI at NHS England, QBE Insurance 
+- 💼 I've completed software engineering work experience weeks at G-research & PDT partners
+- 📧 How to reach me: moboluw4rin@gmail.com
+- 🎸 Fun fact: I play the guitar!
+#### Connect with me on Linkedin:
+- www.linkedin.com/in/mobolu-olowoyeye-6b4488250
